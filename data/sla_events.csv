@@ -1,0 +1,16 @@
+application_id,sla_breached,delay_reason,rework_required,escalation_flag,quality_flag
+APP0001,N,None,N,N,Green
+APP0002,N,None,N,N,Green
+APP0003,Y,Background_Check_Delay,Y,Y,Red
+APP0004,N,Pending_Documents,Y,N,Amber
+APP0005,Y,Peak_Volume,N,Y,Amber
+APP0006,N,None,N,N,Green
+APP0007,N,None,N,N,Green
+APP0008,N,Pending_Documents,Y,N,Amber
+APP0009,Y,ThirdParty_System_Issue,N,Y,Red
+APP0010,Y,Peak_Volume,N,N,Amber
+APP0011,N,Pending_Documents,Y,N,Amber
+APP0012,N,None,N,N,Green
+APP0013,Y,Background_Check_Delay,Y,Y,Red
+APP0014,Y,Peak_Volume,N,N,Amber
+APP0015,N,None,N,N,Green
